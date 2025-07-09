@@ -683,6 +683,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controlSpeed: 50
+  xMin: -35
+  xMax: 35
+  yMin: -10
+  yMax: 30
+  rollAngle: 20
+  pitchAngle: 20
+  rotationSpeed: 10
 --- !u!1 &1238526397
 GameObject:
   m_ObjectHideFlags: 0
